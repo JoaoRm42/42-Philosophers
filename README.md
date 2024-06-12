@@ -90,9 +90,9 @@ To run the `philo` program, use the following command:
 Contributions are welcome! If you have any suggestions or improvements, feel free to create an issue or submit a pull request. Please ensure that your contributions adhere to the coding standards and guidelines of the project.
 
 ## Acknowledgments
-The 42 Network for providing the inspiration and resources for this project.
-The C programming community for their excellent documentation and support.
-All contributors who have helped improve this project.
+- The 42 Network for providing the inspiration and resources for this project.
+- The C programming community for their excellent documentation and support.
+- All contributors who have helped improve this project.
 
 ## Grade
 
