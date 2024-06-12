@@ -83,7 +83,7 @@ To run the `philo` program, use the following command:
 - number_of_times_each_philosopher_must_eat (optional): If all philosophers have eaten this many times, the simulation ends. If not specified, the simulation runs indefinitely.
 
 ```bash
-./philosophers 5 800 200 200
+./philo 5 800 200 200
 ```
 
 ## Contributing
